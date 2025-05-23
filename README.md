@@ -2,6 +2,7 @@
 Saya Muhammad Hafidh Fadhilah dengan NIM 2305672 mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program 
+![image](https://github.com/user-attachments/assets/5136a538-8407-4f49-8589-8e11eb52fadc)
 
 1. **vehicles** (kendaraan)
    - id (primary key)
@@ -67,3 +68,5 @@ Saya Muhammad Hafidh Fadhilah dengan NIM 2305672 mengerjakan Tugas Praktikum 10 
    - Model Vehicle melakukan operasi database
 
 # Dokumentasi
+https://github.com/user-attachments/assets/a6634e8b-b355-490e-a2c5-a3f91cbf6b74
+
